@@ -9,7 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #343f4f;
+    background: #075E54;/* #343F4F #075E54*/
 }
 .wrapper{
     display: inline-flex;
@@ -49,7 +49,7 @@ body{
     left: 0;
     height: 100%;
     width: 100%;
-    background: #343f4f;
+    background: #075E54;
     border-left: 2px solid #FC6D6D;
     animation: typing 1.5s steps(10) infinite;
 }
